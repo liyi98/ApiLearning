@@ -10,11 +10,9 @@ switch ($_GET['view']) {
 
 
     case 'get_customers':
-        $response['success'] = true;
-        $response['customers'] = array();
         $sql=  mysqli_query($con,"SELECT * FROM customer");
         while($customer =mysqli_fetch_assoc($sql)){
-            array_push($response['customers'], $customer);
+            array_push($response, $customer);
         }
         break;
 
