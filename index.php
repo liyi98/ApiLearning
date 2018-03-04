@@ -16,10 +16,18 @@ switch ($_GET['view']) {
         }
         break;
 
+    case 'register':
+        $register = mysqli_query($con,"INSERT INTO customer(customer_name,customer_password,customer_phone) VALUES ('$_POST[name]','$_POST[password]','$_POST[phone]') ");
+        $response['success'] = $register;
+        break;
+
+
+    
 
     default:
         $response = array();
         $response['success'] = false;
+
 
 
 }

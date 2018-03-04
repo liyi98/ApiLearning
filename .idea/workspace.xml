@@ -14,10 +14,11 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            <state relative-caret-position="359">
+              <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
               <folding>
-                <marker date="1520145305770" expanded="true" signature="190:212" ph="SELECT * FRO... customer" />
+                <marker date="1520166542341" expanded="true" signature="190:212" ph="SELECT * FRO... customer" />
+                <marker date="1520166542341" expanded="true" signature="400:527" ph="INSERT INTO customer... " />
               </folding>
             </state>
           </provider>
@@ -77,9 +78,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="406" />
+    <option name="y" value="10" />
     <option name="width" value="841" />
     <option name="height" value="731" />
   </component>
@@ -143,15 +144,15 @@
       <updated>1519911491607</updated>
       <workItem from="1519911493671" duration="3347000" />
       <workItem from="1520092364266" duration="2392000" />
-      <workItem from="1520141914674" duration="2452000" />
+      <workItem from="1520141914674" duration="5695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8191000" />
+    <option name="totallyTimeSpent" value="11434000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1500732" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -191,7 +192,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1520145305770" expanded="true" signature="190:212" ph="SELECT * FRO... customer" />
+            <marker date="1520166542341" expanded="true" signature="190:212" ph="SELECT * FRO... customer" />
+            <marker date="1520166542341" expanded="true" signature="400:527" ph="INSERT INTO customer... " />
           </folding>
         </state>
       </provider>
@@ -217,7 +219,8 @@
         <state relative-caret-position="30">
           <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding>
-            <marker date="1520145305770" expanded="true" signature="190:212" ph="SELECT * FRO... customer" />
+            <marker date="1520166542341" expanded="true" signature="190:212" ph="SELECT * FRO... customer" />
+            <marker date="1520166542341" expanded="true" signature="400:527" ph="INSERT INTO customer... " />
           </folding>
         </state>
       </provider>
@@ -232,10 +235,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/login.php" />
     <entry file="file://$PROJECT_DIR$/login.php" />
-    <entry file="file://$PROJECT_DIR$/Connection.php">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="15">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -248,20 +251,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
+    <entry file="file://$PROJECT_DIR$/Connection.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        <state relative-caret-position="359">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
           <folding>
-            <marker date="1520145305770" expanded="true" signature="190:212" ph="SELECT * FRO... customer" />
+            <marker date="1520166542341" expanded="true" signature="190:212" ph="SELECT * FRO... customer" />
+            <marker date="1520166542341" expanded="true" signature="400:527" ph="INSERT INTO customer... " />
           </folding>
         </state>
       </provider>
