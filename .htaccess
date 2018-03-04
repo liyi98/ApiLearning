@@ -1,3 +1,2 @@
 RewriteEngine On
-RewriteRule ^([A-Za-z0-9-]+)$ index.php?view=$1 [QSA]
-RewriteRule ^haha$ index.php?view=get_customers [QSA]
+RewriteRule ^apilearning/([A-Za-z0-9-]+)$ index.php?view=$1 [QSA]
